@@ -95,4 +95,97 @@
 
 这些技术持续优化，追求更快更准更稳定的特征提取，已成为科研热点。创作者已整理12篇前沿论文及代码供参考。
 
-这些资源涵盖了学术会议、前沿研究、开发工具和AI应用平台，对你的医学AI研究应该很有参考价值。
+### NotebookLM
+- 平台：notebooklm.google.com
+- 功能：Google的笔记本管理和知识整理工具
+
+### hello-agents
+- GitHub：https://github.com/datawhalechina/hello-agents
+- 描述：如何搭建AI agent的教程项目，所有文档和代码均已开源
+
+### CVO-CA模型
+- 主题：Nature顶刊新模型 CVO-CA，特征提取颠覆性突破
+- 描述：横扫SOTA研究生前沿学术人工智能
+
+### awesome-public-datasets
+- GitHub：6.5万星标
+- 描述：汇集农业、生物、经济等几十个领域的权威公开数据，提供CSV、JSON等多种格式
+
+### awesome-mcp-servers
+- GitHub：https://github.com/awesome-mcp-servers
+- 文档：glama.ai/mcp.servers
+- 描述：300个开源免费MCP服务器集合
+
+### AI安全框架
+- 网址：aliasrobotics.github.io/cai/
+- 描述：防止被滥用和恶意攻击的AI安全框架
+
+### PandasAI
+- GitHub：https://github.com/sinaptik-ai/pandas-ai
+- 描述：能让普通笔记本处理百万行数据的AI分析工具，用户用日常语言就能完成数据清洗和可视化
+
+### 视频演示中的GitHub项目
+
+**1. n8n工作流项目**
+- GitHub：github.com/n8n-io/n8n
+
+**2. 今日热榜API**
+- GitHub：github.com/imsyy/DailyHotApi
+
+**3. Excalidraw白板工具**
+- GitHub：github.com/excalidraw/excalidraw
+
+### 视频中提到的12篇论文
+
+**Nature子刊论文**（CNN-LSTM-Attention模型）：
+- 《Assessing the performance and interpretability of the CNN-LSTM-Attention model for daily streamflow forecasting》
+- 链接：s41598-024-84810-5
+- 《Attention-augmented hybrid CNN-LSTM model for social media sentiment analysis》
+- 对应：s41598-025-18245-x
+- IEEE收录的《Short-Term Stock Correlation Forecasting》提出CLATT模型提升预测准确率达57.32%
+
+涉及领域：地震预警、电池状态估计等
+完整标题可通过"CNN-LSTM-Attention"+"应用领域"关键词在学术平台检索
+
+### Cline
+- GitHub：https://github.com/cline/cline
+- 描述：一键部署GitHub资源到本地
+
+### SmartResume
+- 功能：支持远程API和本地部署两种方式，可以根据企业需求灵活选择
+
+### Distill.pub
+- 网址：Distill.pub
+- 描述：把AI算法转化成可交互的动画演示，让抽象的数学原理一目了然。GAN Lab也是其中提到的重要工具
+
+### aella-data-explorer
+- GitHub：https://github.com/context-labs/aella-data-explorer
+- 描述：1亿篇论文组成知识星球
+
+### Skyvern
+- 描述：能用AI视觉和大模型直接"看懂"网页内容，自动完成登录、填表、比价等操作。不依赖传统XPath，网站改版也能适应
+- GitHub：1.6万星
+- 特点：完全开源免费
+
+### MIT Fab Academy课程
+- 课程主页：http://fab.cka.mit.edu/classes/863.19/
+- 全球版：https://fabacademy.org/
+- 描述：麻省理工的传奇课程《How to Make (Almost) Anything》
+
+### fogsight.ai
+- 描述：开源动画生成工具
+
+### awesome-nano-banana
+- GitHub：https://github.com/JimmyLv/awesome-nano-banana
+- 描述：100法球视频制作相关资源
+
+### Google AlphaEvolve
+- 论文：《Mathematical Exploration and Discovery at Scale》
+- 作者：由陶哲轩、Google DeepMind工程师Bogdan Georgiev等共同撰写
+- 聚焦：AlphaEvolve在数学构造领域的突破性应用
+
+### Harsha Suryanarayana（油管算法老师）
+- 身份：印度程序员，在编程界被称为"humblepool"，被描述为"印度最伟大的程序员"
+- 注意：视频信息存在矛盾点，OCR识别显示他出生于1984年5月23日，2014年6月15日因车祸去世，年仅30岁；但视频总结又提到他在2023年创立公司等事迹
+- 建议：通过正规渠道搜索"mycodeschool"或"Harshal Suryanarayana"查找相关教学内容，注意辨别信息真实性
+- YouTube频道：建议搜索"mycodeschool"
