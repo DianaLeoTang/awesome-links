@@ -286,3 +286,42 @@
 - 文档地址：geniusay.giub.io/ChopperBot-Doc/
 - GitHub主仓库：giub.com/geniusay/ChopperBot
 - 功能：支持一键部署和多平台直播自动剪辑
+
+
+## openevidence.com
+**Text:**
+- User request: @元宝 给出视频里工具的链接和地址
+- Response: OpenEvidence 官网: openevidence.com。该工具需医疗专业人员身份验证方可使用,请以官方渠道信息为准。
+- Footer: 42岁做医生版 ChatGPT, 三...
+- Source: AI价值榜
+
+**Link:** openevidence.com
+
+
+## Nested Learning: The Illusion of Deep Learning Architectures
+**Text:**
+- User request: @元宝 找出视频里论文的链接,文章名字和DOI
+- Response: 从视频OCR可见,论文标题为"Nested Learning: The Illusion of Deep Learning Architectures",作者是Google Research团队(含清华姚班校友Peiling Zhong)。但视频未展示论文链接和DOI,NeurIPS 2025会议尚未召开,建议会后通过Google Research官网查询正式版本。
+
+- Footer: 终结 Transformer 统治!清...
+- Source: GeekTech
+
+---
+
+## Futurehouse平台
+**Text:**
+- User request: @腾讯元宝 总结下,另外视频提到了哪些角色?
+- Response: Futurehouse平台有四位AI科学家:Crow乌鸦(文献搜索)、Falcon猎鹰(信息整合)、Owl猫头鹰(学术侦探)、Phoenix凤凰(化学实验)。他们能解读论文全文、全程透明推理,把数月科研流程压缩到几小时。
+
+- Footer: 全球首个AI科学家横空出世...
+- Source: 大攀说AI
+
+---
+
+## Dan Koe
+**Text:**
+- User request: @元宝 详细介绍一下这个视频
+- Response: Dan Koe的工作流核心是"内容创作靠流程,不靠灵感"。他将创作拆解为四步:先在短平台试错→将受欢迎的内容扩写为深度文章→拆解成多平台素材→固定执行时间持续产出。AI只当助手(研究/生成标题),不代替创作。普通人可从建素材库开始,每天专注2小时,30%内容深耕"金矿"(数据好的主题),70%尝试新方向。
+
+- Footer: 一分钟揭秘 | 百万博主Dan...
+- Source: Bigger效率研究所
