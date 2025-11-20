@@ -189,3 +189,100 @@
 - 注意：视频信息存在矛盾点，OCR识别显示他出生于1984年5月23日，2014年6月15日因车祸去世，年仅30岁；但视频总结又提到他在2023年创立公司等事迹
 - 建议：通过正规渠道搜索"mycodeschool"或"Harshal Suryanarayana"查找相关教学内容，注意辨别信息真实性
 - YouTube频道：建议搜索"mycodeschool"
+
+
+### 视频中提到的主要资源链接
+
+**1. IEEE论文**
+- 链接：https://ieeexplore.ieee.org/iel7/4609444/10480567.pdf
+
+**2. arXiv论文**
+- 链接：https://arxiv.org/pdf/2406.08771
+
+**3. GitHub代码库：MFF-EINV2**
+- 链接：http://github.com/muda/MFF-EINV2
+
+**4. 多模态步态识别研究**
+- 链接：https://arxiv.org/pdf/2312.14410
+
+注意：部分链接存在OCR识别误差（如"Iee-explore.tee.cc.org"类域名），建议优先访问IEEE/arXiv/GitHub等平台的规范链接。视频中提到的8篇论文和40个注意力机制模型主要分布在这几个平台上。
+
+### GGAN Explode相关资源
+- **PaddleGAN**
+  - GitHub：https://github.com/PaddlePaddle/PaddleGAN
+- **KA21 AI工具库**
+  - 网址：https://www.ka21ai.cn/
+
+### build-your-own-x
+- GitHub：https://github.com/codecrafters-io/build-your-own-x
+- Stars：34.2万
+- 描述：提供Python/Java/C++等主流语言的实战教程，涵盖3D渲染器、区块链等50+项目，按难度分级适合各阶段学习者
+
+### sindresorhus/awesome
+- GitHub：https://github.com/sindresorhus/awesome
+- Stars：36万+
+- 描述：GitHub上的优质开源项目导航库，包含编程语言、前后端开发、人工智能等领域的精选资源清单
+
+### Bytebot部署说明
+两条主流路径：
+1. **Railway一键云端部署**：配置API密钥后2分钟即可访问Web界面
+2. **Docker本地部署**：需克隆仓库、配置.env文件后运行docker-compose
+
+前者适合快速体验，后者保障数据隐私。建议优先查看GitHub官方文档的部署章节，重点关注AI模型密钥配置和VNC安全设置环节。
+
+**评价**：Bytebot确实在GitHub上火了，能像人类一样操作桌面程序完成自动化任务，但更适合规则明确的办公场景，不是万能神器。
+
+### Claude for Life Sciences
+- 基于：Sonnet 4.5开发
+- 已接入：Benchling、PubMed、10x Genomics等科研工具
+- 支持：文献追踪、数据分析和实验设计等全流程
+- 官方入口：Claude官网 (https://claude.ai/new)
+- 通过AWS Marketplace提供服务
+- 配套：生命科学专用提示词库和API文档
+- 部分功能需企业授权
+- 建议：直接访问Anthropic官网获取最新资料，科研工作者可申请API试用权限
+
+### Meituan CatPaw
+- AI IDE：CatPaw
+- AI编程Agent
+- 智能驱动编码，高效加速交付
+
+### AI科研平台使用流程
+输入医学研究选题（如"人脑胶质瘤IDH1突变研究"），设置年限和学位阶段后，平台自动生成包含选题背景、文献综述的专业开题报告。亮点是参考文献真实可跳转原文，由医学博士团队垂直优化。现开放9.9元体验通道，附赠万字模板包。
+
+### TrendRadar
+- GitHub：https://github.com/sansan0/TrendRadar
+- 描述：热点聚合工具
+
+### TabPFN模型
+- 全称：Tabular Prior-data Fitted Network
+- Nature论文：https://www.nature.com/articles/s41586-024-08328-6
+- GitHub代码：https://github.com/PriorGov/TaPFN 或 https://github.com/Portals/TabPFN
+- 特点：专攻小样本表格数据处理的新模型，推理速度比传统方法快数千倍
+
+### awesome-selfhosted
+- GitHub：https://github.com/awesome-selfhosted/awesome-selfhosted
+- Stars：1800多个
+- 描述：开源项目，一键部署到自己的服务器上很方便
+
+### HuggingFace实战指南
+- 原文链接：https://huggingface.co/spaces/HuggingFaceH4/the-smol-training-playbook
+
+### 落地应用宝藏库
+关键是"先抄袭再创造"：选定行业案例后，重点评估三点：
+1. 业务流程匹配度（比如医疗诊断案例需考虑诊疗规范衔接）
+2. 数据管道改造成本（开源代码往往需对接企业原有系统）
+3. 伦理合规审查（金融场景要特别注意风控节点）
+
+二次开发时建议保留核心算法，优先重构数据接口层，这样既能利用成熟解决方案，又能规避90%的试错坑。
+
+### 500-AI-Agents-Projects
+- GitHub项目："500-AI-Agents-Projects"
+- 直接在GitHub搜索该名称就能找到官方仓库
+- 内容：包含500多个医疗、金融等行业的AI代理开源案例
+- 附带可复用的代码实现
+
+### ChopperBot
+- 文档地址：geniusay.giub.io/ChopperBot-Doc/
+- GitHub主仓库：giub.com/geniusay/ChopperBot
+- 功能：支持一键部署和多平台直播自动剪辑
